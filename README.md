@@ -3,6 +3,8 @@
 
 Bu rehber, Atak011 projesinin kurulumunu adım adım anlatmaktadır. Lütfen aşağıdaki talimatları dikkatlice takip edin.
 
+# Projeye POSTMAN dökümantasyonu eklenmiştir.
+
 ## Önkoşullar
 
 1. Docker ve Docker Compose'un kurulu olduğundan emin olun.
